@@ -92,5 +92,5 @@ Built by a four-person Electrical Engineering capstone team at the University of
 
 ---
 
-*LumaWay — because everyone deserves a way home.*
+*LumaWay — your way home made easy*
 
